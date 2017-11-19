@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "https://github.com/kiu95/express-controller-service.git",
   "author": "Calvin Wong <calckw.kiu95@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-aftership": "^4.1.0",
+    "eslint-plugin-json": "^1.2.0"
+  }
 }

@@ -1,0 +1,26 @@
+{
+	"extends": "aftership",
+	"plugins": [
+	  "json"
+	],
+	"rules": {
+	  // disable rules from base configurations
+	  "max-lines": "off",
+	  "max-params": "off",
+	  "no-loop-func": "off",
+	  "no-new-require": "off",
+	  "no-else-return": "off",
+	  "no-param-reassign": "off",
+	  "no-unused-vars": "off",
+	  "operator-assignment": "off",
+	  "prefer-destructuring": "off",
+	  "prefer-spread": "off",
+	  "linebreak-style": "off",
+	  "class-methods-use-this": "off"
+	  },
+	  "parserOptions":{
+	  "ecmaFeatures": {
+		"experimentalObjectRestSpread": true
+	  }
+	}
+  }
