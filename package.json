@@ -1,0 +1,9 @@
+{
+  "name": "express-controller-service",
+  "version": "0.1.0",
+  "description": "A MVC Controller-Service layer implementation for Express.js",
+  "main": "index.js",
+  "repository": "https://github.com/kiu95/express-controller-service.git",
+  "author": "Calvin Wong <calckw.kiu95@gmail.com>",
+  "license": "MIT"
+}
