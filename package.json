@@ -1,6 +1,6 @@
 {
   "name": "express-controller-service",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "A MVC Controller-Service layer implementation for Express.js",
   "main": "index.js",
   "repository": "https://github.com/kiu95/express-controller-service.git",
@@ -8,6 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.2",
+    "express-async-errors": "^2.1.0",
     "indicative": "^3.0.6",
     "node-http-error": "^2.0.0"
   },
